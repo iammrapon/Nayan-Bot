@@ -1,13 +1,13 @@
 {
-  "author": "Nayan",
+  "author": "Apon",
   "autoRestart": true,
-  "accpetPending": false,
+  "accpetPending": Shuvo,
   "developermode": false,
   "language": "en",
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Sextant",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
